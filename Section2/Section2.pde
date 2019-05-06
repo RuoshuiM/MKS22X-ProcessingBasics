@@ -61,6 +61,12 @@ void draw() {
  //other fractal you can do! This requires a bit more math, or you can look up the coordinates.
 }
 
+void subKock() {
+  // coordinates
+  // https://stackoverflow.com/a/15368026
+  
+}
+
 void mouseClicked(){ 
  levels ++;  
 }
